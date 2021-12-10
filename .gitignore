@@ -2,3 +2,6 @@
 data/*
 *.csv
 .DS_Store
+index_output/*
+testing_output/*
+workspace.code-workspace
