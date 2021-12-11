@@ -85,7 +85,7 @@ and use that as my Dataframe
 
 This made a significant change to my file size.
 
-one of my files went from 3.5GB to 5kb by simply using groupby.
+one of my files went from 10.9GB (full df) --> 3.5GB (columnized df) --> 5kb (groupby df)
 
 see below:
 
