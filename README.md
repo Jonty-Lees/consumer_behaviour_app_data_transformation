@@ -47,6 +47,9 @@ In order to keep track of progress and make sure I was on the right track, I use
 
 You can view the page here: [Miro](https://miro.com/app/board/uXjVOdLqfzg=/?invite_link_id=520433487136)
 
+![Output Goals](https://user-images.githubusercontent.com/86611109/145681080-c8e717f7-76e2-4b77-b6e4-32c4b1ad5558.png)
+
+
 
 ---
 
