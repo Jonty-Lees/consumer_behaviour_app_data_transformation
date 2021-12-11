@@ -12,17 +12,16 @@ Key points they needed:
 ## Technologies
 
 1. Python
-2. Dash
-3. Pandas
-4. Plotly Express
-5. Petl
-6. Glob
-7. OS
-8. Heroku
-9. GitHub
-10. Miro
-11. Jupyter Notebook
-12. Matplotlib.pyplot
+2. Pandas
+3. Plotly Express
+4. Petl
+5. Glob
+6. OS
+7. Heroku
+8. GitHub
+9. Miro
+10. Jupyter Notebook
+11. Matplotlib.pyplot
 
 ---
 
